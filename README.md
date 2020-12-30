@@ -4,6 +4,7 @@
 [![Github All Releases](https://img.shields.io/github/downloads/glpi-project/glpi/total.svg)](#download)
 [![Twitter Follow](https://img.shields.io/twitter/follow/GLPI_PROJECT.svg?style=social&label=Follow)](https://twitter.com/GLPI_PROJECT)
 
+[![Build Status](https://travis-ci.org/felipefulli/glpifullitech.svg?branch=main)](https://travis-ci.org/felipefulli/glpifullitech)
 
 ## About GLPI
 
