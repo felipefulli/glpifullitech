@@ -1,0 +1,5 @@
+[2020-12-20 18:40:34] glpiphplog.WARNING: Test logger  
+[2020-12-20 18:44:30] glpiphplog.DEBUG: Html::compileScss() in /var/www/html/glpi/inc/html.class.php line 7496
+css/styles.scss is new, loading  {"user":"@ip-172-31-3-150"} 
+[2020-12-20 18:44:30] glpiphplog.DEBUG: Html::compileScss() in /var/www/html/glpi/inc/html.class.php line 7496
+css/palettes/auror.scss is new, loading  {"user":"@ip-172-31-3-150"} 
